@@ -40,5 +40,5 @@ It demonstrates the end-to-end data science process: loading text data, cleaning
 ## 🔍 Example Output
 
 ```python
-✅ Accuracy: 100.00%
+✅ Accuracy: 85.95%
 🧠 Prediction: Negative
